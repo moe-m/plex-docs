@@ -2,8 +2,6 @@
 
 # User-specific stuff:
 
-.idea/
-
 .idea/inspectionProfiles
 
 .idea/misc.xml
@@ -12,3 +10,10 @@
 
 .idea/vcs.xml
 
+.idea/
+
+
+.idea/plex-docs.iml
+.idea/modules.xml
+.idea/misc.xml
+settings/.DS_Store
