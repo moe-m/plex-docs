@@ -111,15 +111,6 @@ Tap **Player**
 ![Step 7](./img/6.png "Step 7")
 
 
-#### 8. Adjust Advanced Player Settings
-> Home > Menu > Settings > Advanced > Player
-
-1. Toggle `Prefer synced content` to **ON**
-2. Set `h264 maximum level` to the **Recommended** option. It may not be 5.1 as pictured. It could be lower or higher. (See below)
-3. Toggle `Use Android media player` to **ON**
-
-![Step 7](./img/7.png "Step 7")
-
 #### 9. Adjust H264 Maximum Level
 > Home > Menu > Settings > Advanced > Player > H264 Maximum Level
 
